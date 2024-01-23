@@ -1,1 +1,5 @@
-console.log("hola 123");
+console.log("hola abc");
+
+function saludar(){
+    return "hola"
+}
